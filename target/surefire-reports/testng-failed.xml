@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [com.landsoftwingo.automation.CasoPositivo]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="com.landsoftwingo.automation.CasoPositivo">
+        <methods>
+          <include name="buscarPaquete"/>
+        </methods>
+      </class> <!-- com.landsoftwingo.automation.CasoPositivo -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.landsoftwingo.automation.CasoPositivo] -->
